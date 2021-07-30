@@ -20,7 +20,7 @@ That stupid dev.
 
 **Main Project**: Lilay, a Minecraft launcher.
 
-**Possible Future Projects*:
+**Possible Future Projects**:
  * A Small World, a curated 2.5D Minecraft experience.
  * Maybe a Material Design Linux desktop environment, if I have time? 
 
