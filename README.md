@@ -18,10 +18,11 @@ That stupid dev.
 
 <h3>Projects</h3>
 
-**Main Project**: Lilay, a Minecraft launcher.
+**Main Project**: A Small World, a curated 2.5D Minecraft experience.
+
+**Side Project**: Lilay, a Minecraft launcher. (ON HOLD: No time for this, I guess)
 
 **Possible Future Projects**:
- * A Small World, a curated 2.5D Minecraft experience.
  * Maybe a Material Design Linux desktop environment, if I have time? 
 
 <h3>Buy me a coffee</h3>
