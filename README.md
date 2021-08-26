@@ -14,13 +14,17 @@
 
 ---
 
-That stupid dev.
+Starting life in another school from zero.
+
+**Status**: Busy. I am currently moving to another house. Do not expect quick responses or any at all.
 
 <h3>Projects</h3>
 
-**Main Project**: A Small World, a curated 2.5D Minecraft experience.
+**Main Project**: None
 
-**Side Project**: Lilay, a Minecraft launcher. (ON HOLD: No time for this, I guess)
+**Side Projects**:
+ - A Small World, a curated 2.5D Minecraft experience. (ON HOLD: Moving to another house)
+ - Lilay, a Minecraft launcher. (ON HOLD: Moving to another house)
 
 **Possible Future Projects**:
  * Maybe a Material Design Linux desktop environment, if I have time? 
