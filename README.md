@@ -14,17 +14,17 @@
 
 ---
 
-Starting life in another school from zero.
+*Together, we can make a difference.*
 
-**Status**: Busy. I am currently moving to another house. Do not expect quick responses or any at all.
+**Busy**: Busy because of school.
 
 <h3>Projects</h3>
 
 **Main Project**: None
 
 **Side Projects**:
- - A Small World, a curated 2.5D Minecraft experience. (ON HOLD: Moving to another house)
- - Lilay, a Minecraft launcher. (ON HOLD: Moving to another house)
+ - A Small World, a curated 2.5D Minecraft experience. (ON HOLD: Busy)
+ - Lilay, a Minecraft launcher. (ON HOLD: Busy)
 
 **Possible Future Projects**:
  * Maybe a Material Design Linux desktop environment, if I have time? 
